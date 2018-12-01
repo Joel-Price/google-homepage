@@ -60,18 +60,14 @@ img {
     border: none;
     box-shadow: 0 2px 2px 0 rgba(0, 9, 83, 16), 0 0 0 1px rgba(0, 9, 83, 0.08);
 	margin-top: 285px;
-	margin-left: 450px;
+	margin-left: 425px;
 	padding: 0;
 	color: rgba(0,0,0,.87);
 	word-wrap: break-word;
 	outline: none;
-	width: 400px;
+	width: 450px;
 	height: 38px;
 	display: inline-block;
-	/*position: fixed;
-	top: 50%;
-	left: 35%;
-	font-size: 16px;*/
 }
 
 button {
